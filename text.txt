@@ -142,4 +142,4 @@ At about that time, the large wall monitor flashes brightly for a moment, drawin
 
 Captain:
 
-<prosody rate='x-slow' volume='medium'>Navigator, get us out of this system.  This meeting is adjourned.  </prosody>
+<prosody rate='x-slow' pitch='low'>Navigator, get us out of this system.  This meeting is adjourned.  </prosody>
