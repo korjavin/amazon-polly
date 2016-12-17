@@ -16,7 +16,7 @@ He touches a button on the table and a 3-D hologram appears and hovers above the
 
 Navigator:
 
-<prosody rate='x-fast'>Alpha Centauri, range: 4.3 light years,   planets: 1, star spectral types: M, G, K . Epsilon Eridani, range: 10.5 light years, planets: 2, star spectral type:   K .  Tau Ceti,          range: 11.9 light years,  planets: 5, star spectral type:  G .  Gliese 674,       range: 14.8 light years, planets: 1, star spectral type:   M </prosody>
+Alpha Centauri, range: 4.3 light years,   planets: 1, star spectral types: M, G, K . Epsilon Eridani, range: 10.5 light years, planets: 2, star spectral type:   K .  Tau Ceti,          range: 11.9 light years,  planets: 5, star spectral type:  G .  Gliese 674,       range: 14.8 light years, planets: 1, star spectral type:   M .
 
 Engineer:
 
@@ -28,7 +28,7 @@ I'll <emphasis level='strong'>answer</emphasis> that, if I may.  Stars are class
 
 Ivan:
 
-A <emphasis level='strong'>mnemonic</emphasis>?  You mean like the "Roy G. Biv" memory aid that helps us remember the colors of the rainbow in the correct sequence -- Red Orange Yellow Green Blue Indigo Violet?
+A mnemonic?  You mean like the "Roy G. Biv" memory aid that helps us remember the colors of the rainbow in the correct sequence -- Red Orange Yellow Green Blue Indigo Violet?
 
 Dean:
 
@@ -134,7 +134,7 @@ Okay, it seems grudgingly unanimous then.  Navigator, set a course for Tau Ceti.
 
 Artist:
 
-Will do, Captain.  Extra, extra, read all about it!  Colony ship is "setting sail" towards our new home!
+<prosody volume='loud'>Will do, Captain.  Extra, extra, read all about it!  Colony ship is "setting sail" towards our new home! </prosody>
 
 Narration:
 
@@ -142,4 +142,4 @@ At about that time, the large wall monitor flashes brightly for a moment, drawin
 
 Captain:
 
-<prosody rate='x-fast'>Navigator, get us out of this system.  This meeting is adjourned.  </prosody>
+<prosody rate='x-slow' volume='medium'>Navigator, get us out of this system.  This meeting is adjourned.  </prosody>
