@@ -15,11 +15,13 @@ import (
 var (
 	vflag string
 	kflag string
+	fflag string
 )
 
 func init() {
 	flag.StringVar(&vflag, "v", "", "do we need log?")
 	flag.StringVar(&kflag, "k", "", "keep files?")
+	flag.StringVar(&fflag, "f", "text.txt", "file to read")
 	flag.Parse()
 	if vflag == "" {
 		log.SetOutput(ioutil.Discard)
@@ -28,7 +30,7 @@ func init() {
 
 func main() {
 	voice := voices("voice.txt")
-	file, err := os.Open("text.txt")
+	file, err := os.Open(fflag)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -99,3 +101,7 @@ func voices(filename string) map[string]string {
 	return m1
 
 }
+
+// aws polly put-lexicon \
+// --name w3c \
+// --content file://example.pls
