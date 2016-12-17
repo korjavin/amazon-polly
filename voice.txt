@@ -1,9 +1,15 @@
 Captain:Russell
-Navigator:Joanna
-Dean:Raveena
+Navigator:Raveena
+Dean:Joanna
 Ivan:Joey
-Doctor:Kimberly
-Engineer:Salli
-Artist:Kendra
-Narration:Emma
+Doctor:Amy
+Engineer:Kendra
+Artist:Ivy
+Narration:Justin
+Chef:Russell
+Janitor:Geraint
+Geek:Salli
+Sheriff:Brian
+XO:  Emma
+
 
