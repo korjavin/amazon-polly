@@ -57,6 +57,22 @@ func main() {
 			}
 		}
 	}
+	cmd := "cat "
+	for j := 0; j < i; j++ {
+		cmd += fmt.Sprintf("file_%06d.mp3 ", j)
+	}
+	cmd += " > result.mp3"
+	catCmd := exec.Command("sh", "-c", cmd)
+	_, err = catCmd.Output()
+	if err != nil {
+		log.Println(err)
+	} else {
+		rmCmd := exec.Command("sh", "-c", "rm file*")
+		_, err = rmCmd.Output()
+		if err != nil {
+			log.Println(err)
+		}
+	}
 }
 
 func voices(filename string) map[string]string {
