@@ -68,7 +68,7 @@ Agreed, Navigator.  Continue, please.
 
 Navigator:
 
-Being the closest to us, Alpha Centauri is the most tempting choice for the impatient passengers among us.  However, it has only one planet.  It would be no/no-go, live or die on one throw of the dice.  If it's not habitable, we may not have enough fuel to reach another star.
+Being the closest to us, Alpha Centauri is the most tempting choice for the impatient passengers among us.  However, it has only one planet.  It would be no-go, live or die on one throw of the dice.  If it's not habitable, we may not have enough fuel to reach another star.
 
 Engineer:
 
