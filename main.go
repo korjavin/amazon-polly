@@ -49,13 +49,15 @@ func main() {
 			} else {
 				text := "<speak>" + line + "</speak>"
 				fileext := fmt.Sprintf("file_%06d.mp3", i)
-				args := "aws polly synthesize-speech  --lexicon-names=\"lexicon\" --text-type ssml --text " + strconv.Quote(text) + " --output-format mp3 --voice-id " + currentvoice + " " + fileext
-				log.Println(args)
+				if _, err := os.Stat(fileext); os.IsNotExist(err) {
+					args := "aws polly synthesize-speech  --lexicon-names=\"lexicon\" --text-type ssml --text " + strconv.Quote(text) + " --output-format mp3 --voice-id " + currentvoice + " " + fileext
+					log.Println(args)
 
-				lsCmd := exec.Command("sh", "-c", args)
-				_, err := lsCmd.Output()
-				if err != nil {
-					panic(err)
+					lsCmd := exec.Command("sh", "-c", args)
+					_, err := lsCmd.Output()
+					if err != nil {
+						panic(err)
+					}
 				}
 				i = i + 1
 			}
