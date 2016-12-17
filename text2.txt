@@ -1,0 +1,59 @@
+Captain:
+
+ May I have your attention, please.  All department heads are requested to meet in the Orion Meeting Room in one hour.  I repeat, all department heads are requested to meet in the Orion Meeting Room in one hour.
+
+Narration:
+
+one hour later in the Orion Meeting Room
+
+Captain:
+
+Thanks for coming, everyone.  This is our first meeting since our launch yesterday.  Unfortunately, our maiden voyage is also our first and only shakedown cruise , so I expect a lot of problems with our brand-new systems as they are undergoing their first field test.  I'd like to assess our status.  We'll go around the table clockwise.  Navigator , we'll start with you.
+
+Navigator:
+
+All navigational systems are working normally.  Right now we are heading towards Jupiter just to get away from the Earth and its imminent impact with the asteroid.  We have enough rocket fuel to cover a range of up to 15 light years. That leaves us with four possible destinations having candidate planets for us to try to colonize.  We don't really know which ones, if any, are habitable.  We have undertaken a great risk into the unknown, but we had no other choice.  Stay and die or leave and live.  Our first order of business is to decide where to go.  Captain?
+
+Captain:
+
+We have time to decide.  For now, let's continue with our status updates.  Medical, any injuries?
+
+Doctor:
+
+No major problems.  Some passengers threw up their dinner when we launched.  Many have what I'll call separation anxieties, knowing they're leaving everything they've ever known forever.  I have my psychologists and psychiatrists monitoring their mental conditions and behaviors.  If anyone starts going crazy or acting erratically, we'll know about it.  I expect a lot of stress for the first few months until people settle into life aboard a colony ship.  Once everyone gets some daily routine, they should settle down for the most part.
+
+Ivan:
+
+I guess I'm next.  Environmental systems are all functioning normally so far.  The O2 generators and CO2 scrubbers are keeping up with the demands of one million people breathing in oxygen and breathing out carbon dioxide.  Thank God for engineering marvels!
+
+Chef:
+
+Culinary Services has no problems.  We have numerous cafeterias throughout the ship serving all kinds of stored and canned foods.  We can prepare any nationality's cuisine desired.  Of course, after several years of travel, as our supplies run out, the variety of available dishes will start to dwindle.
+
+Engineer:
+
+The engines are humming along smoothly.  Of course, we're only using our sub-light engines right now.  We won't be able to test our light-speed engines until we exit the solar system into interstellar space.  If they work, we live.  If they don't, we'll take hundreds of years to get to the nearest star, and we'll slowly starve to death.
+
+Janitor:
+
+Our toilets, showers, and garbage disposals are working fine so far.  We can recycle most of our waste.  Clothes washers and dryers are self-service and free of charge.  No problems are anticipated until someone throws something down a drain that should not go there.
+
+Geek:
+
+Computer Engineering is running smoothly.  Nothing to report.  Since Microsoft is no longer available to us, we hope to have our techs develop our own replacement operating system during the journey.  We'll have to come up with a snazzy new name for it.
+
+Dean:
+
+Educational Services has a full system of "schools and colleges", if you will, set up for teaching kids and adults.  We hope to use a lot of Russians in the schools to teach our students the need to be brutally practical in their thinking and straight-forward in their speech patterns.  We don't need "politically correct" doublespeak on a starship.  If there's a problem, we need to call it a problem so we can deal with it.
+
+Sheriff:
+
+Discipline is good so far.  Mostly kids fighting due to bruised egos -- the usual stuff.
+
+XO:
+
+Ship's operations are all green.  Morale is high for now -- excitement, adventure, rescue, escaping doom.  That'll change later, but for now we're riding a wave of euphoria.
+
+Captain:
+
+Excellent!  I've learned what I needed to know for now.  This meeting is adjourned .  Let's get back to work!
