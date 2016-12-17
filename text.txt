@@ -1,0 +1,145 @@
+Captain:
+
+ May I have your attention, please. All department heads are requested to meet in the Gemini Meeting Room in one hour. I repeat, all department heads are requested to meet in the Gemini Meeting Room in one hour.
+
+Captain:
+
+Thanks for coming, everyone. The purpose of this meeting is to decide on our final destination.  While I know that we have been debating this point for many years, I want to discuss it one final time to make sure any newly discovered information is brought to light and considered.  Navigator, can you start off the discussion by giving us our current options?
+
+Navigator:
+
+Certainly, Captain.  Our colony ship has sufficient fuel for a trip of up to 15 light years.  Stars within this range and having prospective planets for us to colonize are as follows.  
+
+Narration:
+
+He touches a button on the table and a 3-D hologram appears and hovers above the center of the table.  Four stars are brighter than all the rest.  The Earth's solar system is in the center of the hologram.
+
+Navigator:
+
+<prosody rate='x-fast'>Alpha Centauri, range: 4.3 light years,   planets: 1, star spectral types: M, G, K . Epsilon Eridani, range: 10.5 light years, planets: 2, star spectral type:   K .  Tau Ceti,          range: 11.9 light years,  planets: 5, star spectral type:  G .  Gliese 674,       range: 14.8 light years, planets: 1, star spectral type:   M </prosody>
+
+Engineer:
+
+What does "star spectral type" mean?
+
+Dean:
+
+I'll <emphasis level='strong'>answer</emphasis> that, if I may.  Stars are classified according to their colors and temperatures, which are interrelated.  We determine their colors and temperatures by analyzing their light.  A star's light spans a large number of light frequencies, called a light spectrum.  This light spectrum ranges from invisible infrared light to the visible light we see in a rainbow to invisible ultraviolet light.  These light spectra are used to classify stars into various spectral types.  The most common types are O B A F G K M . An easy mnemonic to help you remember these spectral types in order from hottest to coldest is "Oh, Be A Fine Girl, Kiss Me."
+
+Ivan:
+
+A <emphasis level='strong'>mnemonic</emphasis>?  You mean like the "Roy G. Biv" memory aid that helps us remember the colors of the rainbow in the correct sequence -- Red Orange Yellow Green Blue Indigo Violet?
+
+Dean:
+
+Exactly, Ivan.  That's a very good example from our childhood school days.  I hope they're still teaching it.
+
+Doctor:
+
+If I may interrupt this sweet moment of nostalgia, may I ask what spectral type our own sun is?
+
+Navigator:
+
+Our own sun is a G-type star.
+
+Doctor:
+
+So why should we consider what type star we go to?
+
+Captain:
+
+If the star is too hot, then the planets will likely be too hot to be habitable, like Mercury in our own solar system.  If the star is too cold, then the planets will likely be too cold to be habitable, like Neptune or Uranus.  So we need to find a star that is either F, G, or K to ensure the planet temperatures have a chance of being in our habitable range.
+
+Doctor:
+
+So does that mean that Gliese 674, being an M-type star, is likely too cold for us to visit?
+
+Ivan:
+
+I would say so.  Another problem with Gliese 674 is that it is 3 times farther than Alpha Centauri and offers exactly the same odds of survival, 1 planet, so there is no gain or advantage in spending 3 times the resources for no increase in chances of success.
+
+Navigator:
+
+Excellent points, Ivan and Doctor.  For exactly those reasons, my recommendation would be to eliminate Gliese 674 from our list.  Waiting almost 15 years to settle down on a planet will lower ship morale, risk our food supplies running out, and make our margin of error on our fuel supply more critical.
+
+Captain:
+
+Agreed, Navigator.  Continue, please.
+
+Navigator:
+
+Being the closest to us, Alpha Centauri is the most tempting choice for the impatient passengers among us.  However, it has only one planet.  It would be no/no-go, live or die on one throw of the dice.  If it's not habitable, we may not have enough fuel to reach another star.
+
+Engineer:
+
+So if that leaves us Epsilon Eridani or Tau Ceti, both about the same distance and both within our target spectral range, I would assume that the one with 5 planets would offer us "more throws of the dice" than the one with only 2 planets.  Does that sound logical?
+
+Doctor:
+
+And Tau Ceti is even a G-type star, which exactly matches our own sun.
+
+Dean:
+
+I hate to throw a monkey wrench into the works, but I have done some research as part of my PhD, and I have two additional bits of information that should be shared here.  First, there is very strong evidence that one of the planets around Tau Ceti is colder than Pluto.  So we would only have 4 planets to choose from rather than 5, but 4 is still better than 2.
+
+Navigator:
+
+Whoa!  How did I miss that!  Dean, give me the reference to your information on that, will you, please?
+
+Dean:
+
+Certainly, Nav.  Texting it to you now...
+
+Ivan:
+
+Dean, you said there were two items.  What's the second one?
+
+Dean:
+
+Well, I hate to bring it up because it may cause some gut-wrenching, hair-pulling, and teeth-gnashing... But there is also moderate evidence that Gliese 674's planet may be almost identical to Earth.  An ideal planet, in other words.  
+
+Narration:
+
+Everyone around the table gasps at this revelation.
+
+Captain:
+
+Well, it was pretty clear-cut that Tau Ceti was going to be our destination of choice -- the one that offers us the best chance of survival, but this new revelation is -- what did you call it, Dean -- gut-wrenching.  Comments?
+
+Ivan:
+
+So, let me see if I have this right.
+
+Navigator:
+
+Counting his points on his fingers as he speaks
+
+Ivan:
+   One, we might have an ideal planet at our maximum range of almost 15 light years.  Two, our fuel might  last us that long IF we have no problems that waste any of our fuel over the next 15 years.  Three, our food and water might last us that long IF we have no food spoilage or bug infestations.  And four, the morale and patience of one million antsy people might be able to last the full 15 years without despair, protests, riots, or rebellions.  There are an awful lot of 'mights' in that assessment.  Did I get it about right?
+
+Navigator:
+
+I'd say you were spot on in your assessment, Ivan.  This latest information makes our decision-making a little more agonizing, doesn't it?  The ultimate prize can be had by taking an extreme risk.  But is it worth the risk? 
+
+Doctor:
+
+Well, I'd rather be home in 4 years instead of 11, or 15, but I'd rather have a 25% chance of dying instead of a 50% chance of dying, or a 50% chance of dying in 4 different ways.  I'll defer to the majority but my vote is on Tau Ceti as our best, risk-informed choice.
+Navigator:
+
+Others reluctantly murmur agreement.  Some faces look really distressed at missing out on a chance to find a  possibly-ideal planet under several must-be-ideal conditions, but they seem to understand the extreme risk of too many things possibly going wrong during that particular odyssey.
+
+Captain:
+
+Okay, it seems grudgingly unanimous then.  Navigator, set a course for Tau Ceti.  I'll make a ship-wide announcement that we've made a final decision on our new home and that we'll be heading out of the solar system.  Artist, please write up our meeting minutes for my approval, after which you can convert them into a news story that you can publish in the ship's daily news feed.
+
+Artist:
+
+Will do, Captain.  Extra, extra, read all about it!  Colony ship is "setting sail" towards our new home!
+
+Narration:
+
+At about that time, the large wall monitor flashes brightly for a moment, drawing everyone's attention to it.  There was no sound coming from it but the clear image of the monstrous asteroid entering the Earth's atmosphere and smashing into the Earth, and the resulting dust and debris starting to clog the Earth's atmosphere and make it go translucent spoke volumes to those watching.  No one said anything for several minutes.  Then finally the Captain said quietly...
+
+Captain:
+
+<prosody rate='x-fast'>Navigator, get us out of this system.  This meeting is adjourned.  </prosody>
