@@ -14,10 +14,12 @@ import (
 
 var (
 	vflag string
+	kflag string
 )
 
 func init() {
 	flag.StringVar(&vflag, "v", "", "do we need log?")
+	flag.StringVar(&kflag, "k", "", "keep files?")
 	flag.Parse()
 	if vflag == "" {
 		log.SetOutput(ioutil.Discard)
@@ -67,10 +69,12 @@ func main() {
 	if err != nil {
 		log.Println(err)
 	} else {
-		rmCmd := exec.Command("sh", "-c", "rm file*")
-		_, err = rmCmd.Output()
-		if err != nil {
-			log.Println(err)
+		if kflag == "" {
+			rmCmd := exec.Command("sh", "-c", "rm file*")
+			_, err = rmCmd.Output()
+			if err != nil {
+				log.Println(err)
+			}
 		}
 	}
 }
