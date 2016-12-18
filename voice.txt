@@ -10,7 +10,9 @@ Chef:Russell
 Janitor:Geraint
 Geek:Salli
 Sheriff:Brian
-XO:  Emma
+XO:Emma
 Narrator1:Raveena
+Narrator:Justin
+Helm:Geraint
 
 
