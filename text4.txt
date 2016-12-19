@@ -24,7 +24,7 @@ Yes.  I called this meeting so we can discuss final preparations.  Is there anyt
 
 Engineer:
 
-We've been doing what tests we can on the engines, sir, but we can only test light-speed operations by going to light speed.  We're ready in that regard.  We'll have all our damage-control teams on high alert when we go to light speed in case something, um, untowards , should happen.
+We've been doing what tests we can on the engines, sir, but we can only [test] light-speed operations by [going] to light speed.  We're ready in that regard.  We'll have all our damage-control teams on high alert when we go to light speed in case something, um, untowards , should happen.
 
 Captain:
 
