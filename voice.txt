@@ -4,7 +4,7 @@ Dean:Joanna
 Ivan:Joey
 Doctor:Amy
 Engineer:Kendra
-Artist:Ivy
+Artist:Amy
 Narration:Justin
 Chef:Russell
 Janitor:Geraint
