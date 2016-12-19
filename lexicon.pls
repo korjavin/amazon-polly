@@ -18,4 +18,8 @@
     <grapheme>interrelated</grapheme>
     <phoneme>ˌɪntərrɪˈleɪtɪd</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>anticipated</grapheme>
+    <phoneme>ænˈtɪsəˌpeɪtəd</phoneme>
+  </lexeme>
 </lexicon>
