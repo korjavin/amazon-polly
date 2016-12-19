@@ -46,7 +46,11 @@ func main() {
 			if end == ":" {
 				log.Println("Changing voice to " + line + voice[line[:len(line)-1]])
 				currentvoice = voice[line[:len(line)-1]]
+				exec.Command("sh", "-c", "cp pause.mp3 "+fmt.Sprintf("file_%06d.mp3 ", i))
+				i = i + 1
 			} else {
+				strings.Replace(line, "[", "<emphasis>", -1)
+				strings.Replace(line, "]", "</emphasis>", -1)
 				text := "<speak>" + line + "</speak>"
 				fileext := fmt.Sprintf("file_%06d.mp3", i)
 				if _, err := os.Stat(fileext); os.IsNotExist(err) {
