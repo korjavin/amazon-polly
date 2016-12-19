@@ -46,8 +46,11 @@ func main() {
 			if end == ":" {
 				log.Println("Changing voice to " + line + voice[line[:len(line)-1]])
 				currentvoice = voice[line[:len(line)-1]]
-				exec.Command("sh", "-c", "cp pause.mp3 "+fmt.Sprintf("file_%06d.mp3 ", i))
-				i = i + 1
+				pause := exec.Command("sh", "-c", "cp pause.mp3 "+fmt.Sprintf("file_%06d.mp3 ", i))
+				_, err := pause.Output()
+				if err != nil {
+					panic(err)
+				}
 			} else {
 				line = strings.Replace(line, "[", "<emphasis>", -1)
 				line = strings.Replace(line, "]", "</emphasis>", -1)
@@ -63,8 +66,8 @@ func main() {
 						panic(err)
 					}
 				}
-				i = i + 1
 			}
+			i = i + 1
 		}
 	}
 	cmd := "cat "
