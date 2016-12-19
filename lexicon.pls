@@ -22,4 +22,8 @@
     <grapheme>anticipated</grapheme>
     <phoneme>ænˈtɪsəˌpeɪtəd</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>momentum</grapheme>
+    <phoneme>moʊˈmɛntəm</phoneme>
+  </lexeme>
 </lexicon>
