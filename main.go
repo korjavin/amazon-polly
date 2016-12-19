@@ -52,7 +52,7 @@ func main() {
 					panic(err)
 				}
 			} else {
-				line = strings.Replace(line, "[", "<emphasis>", -1)
+				line = strings.Replace(line, "[", "<emphasis level='strong'>", -1)
 				line = strings.Replace(line, "]", "</emphasis>", -1)
 				text := "<speak>" + line + "</speak>"
 				fileext := fmt.Sprintf("file_%06d.mp3", i)
