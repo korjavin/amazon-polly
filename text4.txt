@@ -12,7 +12,7 @@ One hour later in the Pegasus Meeting Room, everyone is milling around chatting 
 
 Captain:
 
-This meeting is convened.  Let's get started.  We've been lingering in the solar system for a few weeks hoping for a miracle, but all evidence shows that the Earth is dying.  We estimate at least half of the 12 billion people are dead, plants are dying due to lowering temperatures and lack of sunlight due to the debris suspended in the atmosphere.  In other words, there is no hope.  The Earth is not going to recover from this catastrophic event.
+This meeting is convened .  Let's get started.  We've been lingering in the solar system for a few weeks hoping for a miracle, but all evidence shows that the Earth is dying.  We estimate at least half of the 12 billion people are dead.  Plant life is dying due to lowering temperatures and lack of sunlight due to the debris suspended in the atmosphere.  In other words, there is no hope.  The Earth is not going to recover from this catastrophic event.
 
 Navigator:
 
@@ -24,11 +24,11 @@ Yes.  I called this meeting so we can discuss final preparations.  Is there anyt
 
 Engineer:
 
-We've been doing what tests we can on the engines, sir, but we can only test light-speed operations by going to light speed.  We're ready in that regard.  We'll have all our damage-control teams on high alert when we go to light speed in case something, um, untowards, should happen.
+We've been doing what tests we can on the engines, sir, but we can only test light-speed operations by going to light speed.  We're ready in that regard.  We'll have all our damage-control teams on high alert when we go to light speed in case something, um, untowards , should happen.
 
 Captain:
 
-Good.  That's all we can do.  Sooner or later, we have to take that first step of our "10,000-mile journey".  Navigator, once we turn "downward" to exit the solar system and head towards Tau Ceti, are there any known obstructions in our way that we need to know about?
+Good.  That's all we can do.  Sooner or later, we have to take that first step of our "10,000-mile journey".  Navigator, once we exit the solar system and head towards Tau Ceti, are there any known obstructions in our way that we need to know about?
 
 Navigator:
 
@@ -68,7 +68,7 @@ No disciplinary problems, Captain.  My department is ready to go at any time.
 
 Ivan:
 
-Environmental systems are nominal, sir.  No problems anticipated.
+Environmental systems are nominal, sir.  No problems are anticipated.
 
 XO:
 
@@ -80,7 +80,7 @@ The Captain gets up and walks over to a control panel on the wall and pics up a 
 
 Captain:
 
-May I have everyone's attention.  This is the Captain speaking.  We will be exiting our solar system in two hours.  Everyone should ensure their belongings are stowed securely away somewhere.  Just before we go to light speed, we will make one final announcement.  That will be everyone's cue to clear the corridors in case any emergencies need damage control personnel to move about the ship quickly.  Make sure you know where you want to be at that time.  This is a matter of ship-wide safety.  Anyone not complying with this request may be subject to disciplinary action.  That is all.
+May I have everyone's attention.  This is the Captain speaking.  We will be exiting our solar system in two hours.  Everyone should ensure their belongings are stowed securely away somewhere.  Just before we go to light speed, we will make one final announcement.  That will be everyone's cue to clear the corridors in case any emergencies need damage-control personnel to move about the ship quickly.  Make sure you know where you want to be at that time.  This is a matter of ship-wide safety.  Anyone not complying with this request may be subject to disciplinary action.  That is all.
 
 Narrator:
 
@@ -100,16 +100,18 @@ Department heads, make sure your departments are ready to support light speed in
 
 Narrator:
 
-The department heads exit the room smartly to begin their final preparations.  All spaces in the ship are abuzz with excitement that their journey is about to begin in earnest.  The Engineer is sitting in Maneuvering, the command center of the engineering spaces.  His brow is furrowed in deep thought as he ponders all the things that could go wrong with the engines when transitioning from sub-light speeds to light speed for the first time.  These engines have never been tested under actual field conditions in deep space before.  He crossed his fingers and prayed that the designers were among the best minds on the planet.
+The department heads exit the room smartly to begin their final preparations.  All spaces in the ship are abuzz with excitement that their journey is about to begin in earnest.  The Engineer is sitting in Maneuvering, the command center of the engineering spaces.  His brow is furrowed in deep thought as he ponders all the things that could go wrong with the engines when transitioning from sub-light speed to light speed for the first time.  These engines have never been tested under actual field conditions in deep space before.  He crossed his fingers and prayed that the designers were among the best minds on the planet. 
+ 
+
 Finally, two hours passed.
 
 Captain:
 
-May I have your attention, please.  This is the Captain speaking. If you look out the windows on the port side, you can catch one final glimpse of Jupiter as we pass by it.  In one minute I would ask you to please clear the corridors and return to your quarters or go to an approved assembly or observation area.  We will be going to light speed in five minutes.  This is a historic moment.  What we are about to do, no human has ever done before.  We are going to gradually accelerate and travel at 90% of the speed of light.  We fully expect to encounter some problems.  Do not worry.  We have damage control and emergency response personnel in standby ready to deal with problems as they arise.  If you hear any alarms, please remain calm and stay where you are and listen for further instructions from the bridge.  May I wish Godspeed to all of us.  That is all.  Captain out.
+May I have your attention, please.  This is the Captain speaking. If you look out the windows on the port side, you can catch one final glimpse of Jupiter as we pass by it.  In one minute I would ask you to please clear the corridors and return to your quarters or go to an approved assembly or observation area.  We will be going to light speed in five minutes.  This is a historic moment .  What we are about to do, no human has ever done before.  We are going to gradually accelerate and travel at 90% of the speed of light.  We fully expect to encounter some problems.  Do not worry.  We have damage control and emergency response personnel in standby ready to deal with problems as they arise.  If you hear any alarms, please remain calm and stay where you are and listen for further instructions from the bridge.  May I wish Godspeed to all of us.  That is all.  Captain out .
 
 Narrator:
 
-The Captain, XO, and Navigator are already on the bridge.  The other department heads are in their department spaces.  Five minutes pass.  The Captain announces that the ship will be going to light speed.
+The Captain, XO, and Navigator are already on the Bridge.  The other department heads are in their department spaces.  Five minutes pass.  The Captain announces that the ship will be going to light speed.
 
 Captain:
 
@@ -123,7 +125,7 @@ Captain:
 
 Helm, take us to light speed.
 
-Navigator:
+Narrator:
 
 The helm leans over his control panel and makes the necessary adjustments.  The ship begins to accelerate, the sound of the engines and the vibrations in the ship's hull are imperceptible at first but slowly increase in intensity as they strain to change the massive momentum of the ship.
 
@@ -149,11 +151,11 @@ Maneuvering, what's your status?
 
 Engineer:
 
-Captain, we have some power conduits overheating from the strain.  We request 10 minutes to adjust the cooling systems to redistribute our cooling streams to handle the excess heat.
+Captain, we have some power conduits overheating from the strain.  We request 10 minutes to adjust the cooling systems to [ redistribute ] our cooling streams to handle the excess heat.
 
 Captain:
 
-Very well, Engineer.  Let me know when things stabilize so we can continue raising speed.
+Very well, Engineer.  Let me know when things [ stabilize ] so we can continue raising speed.
 
 Engineer:
 
@@ -165,7 +167,7 @@ After 10 minutes passes, the alarms are quiet and the flashing lights have cease
 
 Engineer:
 
-Bridge, Maneuvering.  We are ready to proceed with acceleration to light speed.
+Bridge, [this is] Maneuvering.  We are ready to proceed with acceleration to light speed.
 
 Captain:
 
@@ -177,11 +179,11 @@ Aye, sir.  Now holding at 70% light speed.
 
 Captain:
 
-Maneuvering, Bridge.  How's it looking back there, Engineer?
+Maneuvering, [this is] Bridge.  How's it looking back there, Engineer?
 
 Engineer:
 
-Surprisingly good, Captain.  Darn, those designers were good!  We have green boards and are good to go.
+Surprisingly good, Captain.  The engine designers are to be commended!  We have green boards and are good to go.
 
 Captain:
 
@@ -189,7 +191,7 @@ Helm, take us to 80% light speed.
 
 Helm:
 
-Aye, sir.  Now holding at 80% light speed.
+Aye, sir.  Raising speed now... holding at 80% light speed.
 
 Captain:
 
@@ -209,7 +211,7 @@ The Engineer oversees his technicians reroute power and make several adjustments
 
 Engineer:
 
-Bridge, Maneuvering, ready to continue.
+Bridge, Maneuvering, we are ready to continue.
 
 Captain:
 
@@ -225,12 +227,12 @@ Maneuvering, Bridge.  We are at 90% light speed and holding.  How are the engine
 
 Engineer:
 
-Bridge, Maneuvering, everything's purring like a kitten back here.  Amazing!  What a feat of engineering those designers pulled off!
+Bridge, Maneuvering, everything's purring like a kitten back here.  These engines are amazing!  What a feat of engineering those designers pulled off!
 
 Captain:
 
-May I have your attention, please.  This is the Captain speaking.  The ship is now proceeding to Tau Ceti at 90% light speed.  All ship systems are stable and operating normally.  We are off to an auspicious start.  Everyone may return to your normal routines.  Please monitor everyone closely over the next 24 hours and report any strange noises or other anomalies to the Bridge immediately.  Captain out.
+May I have your attention, please.  This is the Captain speaking.  The ship is now proceeding to Tau Ceti at 90% of light speed.  All ship systems are stable and operating normally.  We are off to an auspicious start.  Everyone may return to your normal routines.  Please monitor everything closely over the next 24 hours and report any strange noises or other anomalies to the Bridge immediately.  Captain out.
 
 Narrator:
 
-And even from the Bridge, the Bridge crew could hear shouts of joy and triumph resound throughout the ship.  History had been made and a new chapter in the "Book of Mankind" had begun.
+And even from the Bridge, the Bridge crew could hear shouts of joy and triumph resound throughout the ship.  History had been made and a new chapter in the "Book of Mankind" had begun
