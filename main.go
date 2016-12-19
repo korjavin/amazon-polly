@@ -70,6 +70,11 @@ func main() {
 			i = i + 1
 		}
 	}
+	rm := exec.Command("sh", "-c", "rm result.mp3")
+	_, err = rm.Output()
+	if err != nil {
+		log.Println(err)
+	}
 	cmd := "cat "
 	for j := 0; j < i; j++ {
 		cmd += fmt.Sprintf("file_%06d.mp3 ", j)
