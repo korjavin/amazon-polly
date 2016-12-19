@@ -4,7 +4,7 @@ The Captain is making a ship-wide announcement.
 
 Captain:
 
-May I have your attention, please. All department heads are requested to meet in the Pegasus Meeting Room in one hour. I repeat, all department heads are requested to meet in the Pegasus Meeting Room in one hour.
+May I have your attention please. All department heads are requested to meet in the Pegasus Meeting Room in one hour. I repeat, all department heads are requested to meet in the Pegasus Meeting Room in one hour.
 
 Narrator:
 
@@ -16,7 +16,7 @@ This meeting is convened .  Let's get started.  We've been lingering in the sola
 
 Navigator:
 
-Does that mean we'll be leaving the solar system now, Captain?
+Does that mean we'll be leaving the solar system now Captain?
 
 Captain:
 
@@ -24,7 +24,7 @@ Yes.  I called this meeting so we can discuss final preparations.  Is there anyt
 
 Engineer:
 
-We've been doing what tests we can on the engines, sir, but we can only [test] light-speed operations by [going] to light speed.  We're ready in that regard.  We'll have all our damage-control teams on high alert when we go to light speed in case something, um, untowards , should happen.
+We've been doing what tests we can on the engines sir, but we can only test light-speed operations by actually going to light speed.  We're ready in that regard.  We'll have all our damage-control teams on high alert when we go to light speed in case something um, untowards, should happen.
 
 Captain:
 
@@ -32,7 +32,7 @@ Good.  That's all we can do.  Sooner or later, we have to take that first step o
 
 Navigator:
 
-No, sir.  The route is clear.  We're ready to proceed whenever you are.
+No sir.  The route is clear.  We're ready to proceed whenever you are.
 
 Captain:
 
@@ -48,31 +48,31 @@ The Med Bay has no critical patients that we need to worry about.  Physically, t
 
 Artist:
 
-We've been printing articles and carrying headlines for days informing everyone that going to light speed is imminent.  There should be no surprises when you make the announcement, sir.
+We've been printing articles and carrying headlines for days informing everyone that going to light speed is imminent.  There should be no surprises when you make the announcement sir.
 
 Chef:
 
-I can have all the dishes and kitchen items secured within two hours, Captain.  Just give me that much notice.
+I can have all the dishes and kitchen items secured within two hours Captain.  Just give me that much notice.
 
 Janitor:
 
-Likewise, Captain.  Two hours' notice should be adequate for us to stow all our cleaning gear so it will be out of the way in case of any emergencies requiring passage through the hallways and corridors.
+Likewise Captain.  Two hours' notice should be adequate for us to stow all our cleaning gear so it will be out of the way in case of any emergencies requiring passage through the hallways and corridors.
 
 Geek:
 
-IT systems are ready, sir.
+IT systems are ready sir.
 
 Sheriff:
 
-No disciplinary problems, Captain.  My department is ready to go at any time.
+No disciplinary problems Captain.  My department is ready to go at any time.
 
 Ivan:
 
-Environmental systems are nominal, sir.  No problems are anticipated.
+Environmental systems are nominal sir.  No problems are anticipated.
 
 XO:
 
-All ship systems report ready, Captain.  We can go to light speed on your order.
+All ship systems report ready Captain.  We can go to light speed on your order.
 
 Narrator:
 
@@ -92,7 +92,7 @@ XO, be ready to exit the solar system and take us to light speed in two hours.
 
 XO:
 
-Aye, Captain.  The ship will be ready.
+Aye Captain.  The ship will be ready.
 
 Captain:
 
@@ -100,10 +100,10 @@ Department heads, make sure your departments are ready to support light speed in
 
 Narrator:
 
-The department heads exit the room smartly to begin their final preparations.  All spaces in the ship are abuzz with excitement that their journey is about to begin in earnest.  The Engineer is sitting in Maneuvering, the command center of the engineering spaces.  His brow is furrowed in deep thought as he ponders all the things that could go wrong with the engines when transitioning from sub-light speed to light speed for the first time.  These engines have never been tested under actual field conditions in deep space before.  He crossed his fingers and prayed that the designers were among the best minds on the planet. 
+The department heads exit the room smartly to begin their final preparations.  All spaces in the ship are abuzz with excitement that their journey is about to begin in earnest.  The Engineer is sitting in Maneuvering, the command center of the engineering spaces.  His brow is furrowed in deep thought as he ponders all the things that could go wrong with the engines when transitioning from sub-light speed to light speed for the first time.  These engines have never been tested under actual field conditions in deep space before.  He crosses his fingers and prays that the designers were among the best minds on the planet. 
  
 
-Finally, two hours passed.
+Finally, two hours pass.
 
 Captain:
 
@@ -119,7 +119,7 @@ XO, is the ship ready?
 
 XO:
 
-Yes, sir, on your command.
+Yes sir, on your command.
 
 Captain:
 
@@ -143,7 +143,7 @@ Helm, hold speed at 60% light speed.
 
 Helm:
 
-Aye, aye, sir.  Holding speed at 60% light speed.
+Aye aye sir.  Holding speed at 60% light speed.
 
 Captain:
 
@@ -155,15 +155,15 @@ Captain, we have some power conduits overheating from the strain.  We request 10
 
 Captain:
 
-Very well, Engineer.  Let me know when things [ stabilize ] so we can continue raising speed.
+Very well Engineer.  Let me know when things [ stabilize ] so we can continue raising speed.
 
 Engineer:
 
-Aye, sir.
+Aye sir.
 
 Narrator:
 
-After 10 minutes passes, the alarms are quiet and the flashing lights have ceased.
+After 10 minutes pass, the alarms are quiet and the flashing lights have ceased.
 
 Engineer:
 
@@ -171,19 +171,19 @@ Bridge, [this is] Maneuvering.  We are ready to proceed with acceleration to lig
 
 Captain:
 
-Very well, Maneuvering.  Helm, take us to 70% light speed and hold.
+Very well Maneuvering.  Helm, take us to 70% light speed and hold.
 
 Helm:
 
-Aye, sir.  Now holding at 70% light speed.
+Aye sir.  Now holding at 70% light speed.
 
 Captain:
 
-Maneuvering, [this is] Bridge.  How's it looking back there, Engineer?
+Maneuvering, [this is] Bridge.  How's it looking back there Engineer?
 
 Engineer:
 
-Surprisingly good, Captain.  The engine designers are to be commended!  We have green boards and are good to go.
+Surprisingly good Captain.  The engine designers are to be commended!  We have green boards and are good to go.
 
 Captain:
 
@@ -191,7 +191,7 @@ Helm, take us to 80% light speed.
 
 Helm:
 
-Aye, sir.  Raising speed now... holding at 80% light speed.
+Aye sir.  Raising speed now... holding at 80% light speed.
 
 Captain:
 
@@ -199,11 +199,11 @@ Maneuvering?
 
 Engineer:
 
-We have a slight engine imbalance, Captain.  Request that we hold here a moment.
+We have a slight engine imbalance Captain.  Request that we hold here a moment.
 
 Captain:
 
-Very well, Engineer.  Let the Bridge know when you're ready to proceed.
+Very well Engineer.  Let the Bridge know when you're ready to proceed.
 
 Narrator:
 
@@ -219,7 +219,7 @@ Maneuvering, Bridge.  Understood.  Helm, proceed to 90% light speed.
 
 Helm:
 
-Aye, Captain.  Proceeding to 90% light speed.  Raising speed now.  Speed at 90% light speed and holding, Captain!
+Aye Captain.  Proceeding to 90% light speed.  Raising speed now.  Speed at 90% light speed and holding Captain!
 
 Captain:
 
