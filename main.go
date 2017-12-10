@@ -44,7 +44,7 @@ func getmsg(w http.ResponseWriter, r *http.Request) {
 			} else {
 				line = strings.TrimSpace(line)
 				if line != "" {
-					text := "<speak>" + line + "</speak>"
+					// text := "<speak>" + line + "</speak>"
 					fileext := fmt.Sprintf("file_%06d.mp3", i)
 					// if _, err := os.Stat(fileext); os.IsNotExist(err) {
 					// args := "aws polly synthesize-speech --text-type ssml --text " + strconv.Quote(text) + " --output-format mp3 --voice-id " + currentvoice + " " + fileext
@@ -52,7 +52,7 @@ func getmsg(w http.ResponseWriter, r *http.Request) {
 
 					// lsCmd := exec.Command("sh", "-c", args)
 					// _, err := lsCmd.Output()
-					res := makeSpeech(text, currentvoice)
+					res := makeSpeech(line, currentvoice)
 					file, err := os.Create(fileext)
 					if err != nil {
 						log.Fatal(err)
