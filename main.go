@@ -8,7 +8,6 @@ import (
 	"net/http"
 	"os"
 	"os/exec"
-	"strconv"
 	"strings"
 )
 
@@ -47,22 +46,30 @@ func getmsg(w http.ResponseWriter, r *http.Request) {
 				if line != "" {
 					text := "<speak>" + line + "</speak>"
 					fileext := fmt.Sprintf("file_%06d.mp3", i)
-					if _, err := os.Stat(fileext); os.IsNotExist(err) {
-						args := "aws polly synthesize-speech --text-type ssml --text " + strconv.Quote(text) + " --output-format mp3 --voice-id " + currentvoice + " " + fileext
-						log.Println(args)
+					// if _, err := os.Stat(fileext); os.IsNotExist(err) {
+					// args := "aws polly synthesize-speech --text-type ssml --text " + strconv.Quote(text) + " --output-format mp3 --voice-id " + currentvoice + " " + fileext
+					// log.Println(args)
 
-						lsCmd := exec.Command("sh", "-c", args)
-						_, err := lsCmd.Output()
-						if err != nil {
-							panic(err)
-						}
+					// lsCmd := exec.Command("sh", "-c", args)
+					// _, err := lsCmd.Output()
+					res := makeSpeech(text, currentvoice)
+					file, err := os.Create(fileext)
+					if err != nil {
+						log.Fatal(err)
 					}
+
+					_, err = io.Copy(file, res)
+					if err != nil {
+						log.Fatal(err)
+					}
+					file.Close()
+					// }
 					i = i + 1
 				}
 			}
 		}
 	}
-	rm := exec.Command("sh", "-c", "rm result.mp3")
+	rm := exec.Command("sh", "-c", "rm result.mp3 ara_MP3WRAP.mp3")
 	_, err := rm.Output()
 	if err != nil {
 		log.Println(err)
@@ -79,17 +86,17 @@ func getmsg(w http.ResponseWriter, r *http.Request) {
 	catCmd := exec.Command("sh", "-c", cmd)
 	_, err = catCmd.Output()
 	if err != nil {
-		log.Printf("catcmd: %v \n", err)
+		log.Panicf("catcmd: %v \n", err)
 	} else {
-		pause := exec.Command("sh", "-c", "cp ara_MP3WRAP.mp3 result.mp3")
+		pause := exec.Command("sh", "-c", "mv ara_MP3WRAP.mp3 result.mp3")
 		_, err = pause.Output()
 		if err != nil {
-			log.Printf("cp wrap  %v \n", err)
+			log.Panicf("cp wrap  %v \n", err)
 		}
 		rmCmd := exec.Command("sh", "-c", "rm file*")
 		_, err = rmCmd.Output()
 		if err != nil {
-			log.Printf("rm file %v \n ", err)
+			log.Panicf("rm file %v \n ", err)
 		}
 	}
 
@@ -109,5 +116,5 @@ func main() {
 		http.ServeFile(w, r, "index.html")
 	})
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./public"))))
-	http.ListenAndServe(":8080", nil)
+	http.ListenAndServe(":8989", nil)
 }
