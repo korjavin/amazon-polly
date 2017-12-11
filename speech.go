@@ -25,7 +25,7 @@ func makeSpeech(text, voice string) io.ReadCloser {
 		OutputFormat: aws.String("mp3"),
 		SampleRate:   aws.String("8000"),
 		Text:         aws.String(text),
-		TextType:     aws.String("text"),
+		TextType:     aws.String("ssml"),
 		VoiceId:      aws.String(voice),
 	}
 

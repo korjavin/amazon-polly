@@ -31,28 +31,19 @@ func getmsg(w http.ResponseWriter, r *http.Request) {
 	currentvoice := ""
 	for scanner.Scan() {
 		line := scanner.Text()
+		text := ""
 		if len(line) > 1 {
 			end := line[len(line)-1:]
 			if end == ":" {
 				log.Println("Changing voice to " + line + voice[line[:len(line)-1]])
 				currentvoice = voice[line[:len(line)-1]]
-				// pause := exec.Command("sh", "-c", "cp pause.mp3 "+fmt.Sprintf("file_%06d.mp3 ", i))
-				// _, err := pause.Output()
-				// if err != nil {
-				// 	panic(err)
-				// }
+				text += `<break time="3s"/>`
 			} else {
 				line = strings.TrimSpace(line)
 				if line != "" {
-					// text := "<speak>" + line + "</speak>"
+					text = line + `<break time="1s"/>`
 					fileext := fmt.Sprintf("file_%06d.mp3", i)
-					// if _, err := os.Stat(fileext); os.IsNotExist(err) {
-					// args := "aws polly synthesize-speech --text-type ssml --text " + strconv.Quote(text) + " --output-format mp3 --voice-id " + currentvoice + " " + fileext
-					// log.Println(args)
-
-					// lsCmd := exec.Command("sh", "-c", args)
-					// _, err := lsCmd.Output()
-					res := makeSpeech(line, currentvoice)
+					res := makeSpeech(`<speak>`+text+`</speak>`, currentvoice)
 					file, err := os.Create(fileext)
 					if err != nil {
 						log.Fatal(err)
@@ -63,7 +54,6 @@ func getmsg(w http.ResponseWriter, r *http.Request) {
 						log.Fatal(err)
 					}
 					file.Close()
-					// }
 					i = i + 1
 				}
 			}
@@ -74,14 +64,12 @@ func getmsg(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		log.Println(err)
 	}
-	// mp3wrap result.mp3 file_000000.mp3 file_000001.mp3 file
-	// ffmpeg -i "concat:file1.mp3|file2.mp3" -acodec copy output.mp3
-	// cmd := "cat "
+
 	cmd := "mp3wrap ara "
 	for j := 0; j < i; j++ {
 		cmd += fmt.Sprintf("file_%06d.mp3 ", j)
 	}
-	// cmd += " result.mp3"
+
 	log.Println(cmd)
 	catCmd := exec.Command("sh", "-c", cmd)
 	_, err = catCmd.Output()
